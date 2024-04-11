@@ -1,0 +1,18 @@
+<employees>
+    <person>
+        <personId>3</personId>
+        <firstName>Bob</firstName>
+        <lastName>Johnson</lastName>
+        <mobile>555555555</mobile>
+        <email>bob@example.com</email>
+        <pesel>55555555555</pesel>
+    </person>
+    <person>
+        <personId>4</personId>
+        <firstName>Eva</firstName>
+        <lastName>Green</lastName>
+        <mobile>999999999</mobile>
+        <email>eva@example.com</email>
+        <pesel>99999999999</pesel>
+    </person>
+</employees>
